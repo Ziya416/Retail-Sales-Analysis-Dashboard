@@ -5,7 +5,7 @@ import pandas as pd
 from pathlib import Path
 
 data_path = Path(__file__).parent / "Sales_Data.zip"
-df = pd.read_csv("HR_Employee_Attrition_Analysis.csv", encoding="latin1")
+df = pd.read_csv("Salesdata.csv", encoding="latin1")
 
 st.markdown(
     """
