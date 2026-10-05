@@ -59,7 +59,7 @@ if selected_page == "Dashboard":
                 font-size: 1.2rem;
             }
         </style>
-        <h1 class="dashboard-title">Retail Sales Analysis Dashboard</h1>
+        <h1 class="dashboard-title">Retale Sales Analysis Dashboard</h1>
         """,
         unsafe_allow_html=True
     )
